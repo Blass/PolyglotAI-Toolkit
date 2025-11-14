@@ -35,8 +35,7 @@
 
 ![logo](https://github.com/user-attachments/assets/f4d4796a-7760-4746-a1db-a71683e1c9ee)
 
-A lightweight, e![Uploading logo.svg…]()
-xtendable toolkit providing AI-powered utilities and examples, written in **English** and **Bulgarian** to help developers learn, experiment, and prototype small to mid‑scale AI systems quickly.
+A lightweight, extendable toolkit providing AI-powered utilities and examples, written in **English** and **Bulgarian** to help developers learn, experiment, and prototype small to mid‑scale AI systems quickly.
 
 ---
 
