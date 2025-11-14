@@ -37,9 +37,6 @@ polyglotai-toolkit/
 ```
 
 ---
-
-## **📄 README.md (Full Version)**
-
 ### **English Version**
 
 Welcome to **PolyglotAI Toolkit**, a dual‑language (EN/BG) educational AI repository. This project contains:
