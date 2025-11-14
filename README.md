@@ -81,15 +81,3 @@ sample = "Изкуственият интелект променя бъдеще�
 cleaned = clean_text(sample)
 print(cleaned)
 ```
-
----
-
-If you'd like, I can also generate:
-
-* actual Python files for `examples/` and `utils/`
-* a LICENSE
-* Git commit messages
-* a GitHub Actions CI file
-* logo/banner for the repo
-
-Just tell me!
